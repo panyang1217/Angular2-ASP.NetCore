@@ -1,0 +1,8 @@
+{
+  "server": {
+    "baseDir": "build/dev",
+    "routes": {
+      "/node_modules": "node_modules"
+    }
+  }
+}

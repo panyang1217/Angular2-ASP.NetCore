@@ -7,3 +7,5 @@ import "@angular/platform-browser";
 import "@angular/platform-browser-dynamic";
 
 import 'rxjs/Rx';
+
+import 'bootstrap/dist/css/bootstrap.css';
